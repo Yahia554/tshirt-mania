@@ -8,7 +8,7 @@ const Aunty = () => {
     <div>
       <h4>aunty</h4>
       <p>house: {house}</p>
-      <button onClick={() => setHouse(house + 1)}>add house</button>
+      <button onClick={() => setHouse(house + 1)}> bay a house aunty </button>
     </div>
   );
 };
