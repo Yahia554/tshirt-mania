@@ -1,0 +1,8 @@
+.shirt {
+  width: 300px;
+  border: 1px solid lightgray;
+  border-radius: 10px;
+}
+.shirt img {
+  height: 250px;
+}
